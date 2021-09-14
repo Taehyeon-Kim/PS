@@ -14,7 +14,7 @@ phone_book : 전화번호 배열
 '''
 
 
-def solution(phone_book):
+def solution(phone_book: list):
     phone_book.sort()
 
     # 반복문은 한 번만 돌면 됨
@@ -24,3 +24,9 @@ def solution(phone_book):
             return False
 
     return True
+
+
+if __name__ == '__main__':
+    assert solution(["119", "97674223", "1195524421"]) == False
+    assert solution(["123", "456", "789"]) == True
+    assert solution(["12", "123", "1235", "567", "88"]) == False
