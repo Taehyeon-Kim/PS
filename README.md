@@ -59,9 +59,9 @@ Swift로도 준비를 해야할 것 같네요...
 |회의실 배정|1931|`백준` `솝탁 연습문제` `바킹독 문제집 연습`|
 |출입국 심사|16288|`백준` `솝탁 연습문제`|
 |캔디캔디|2878|`백준` `솝탁 과제문제`|
-|신입 사원|1946|`백준` `솝탁 과제문제`|
+|신입 사원|1946|`백준` `솝탁 과제문제`|[🐢](https://github.com/Taehyeon-Kim/PS/blob/master/Greedy/boj1946.py)||
 |동전 0|11407|`백준` `솝탁 과제문제` `바킹독 문제집 연습`|[🐢](https://github.com/Taehyeon-Kim/PS/blob/master/Greedy/BOJ11047%2B%EB%8F%99%EC%A0%840.py)|[🐣](https://github.com/Taehyeon-Kim/PS/blob/master/Swift/boj11047.swift)|
-|ATM|11399|`백준` `바킹독 문제집 기본`|
+|ATM|11399|`백준` `바킹독 문제집 기본`|[🐢](https://github.com/Taehyeon-Kim/PS/blob/master/Greedy/boj11399.py)|
 |잃어버린 괄호|1541|`백준` `바킹독 문제집 기본`|
 |주식|11501|`백준` `바킹독 문제집 기본`|
 |수 묶기|1744|`백준` `바킹독 문제집 기본`|
