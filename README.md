@@ -66,5 +66,5 @@ Swift로도 준비를 해야할 것 같네요...
 |주식|11501|`백준` `바킹독 문제집 기본`|
 |수 묶기|1744|`백준` `바킹독 문제집 기본`|
 |공주님의 정원|2457|`백준` `바킹독 문제집 연습`|
-|로프|2217|`백준` `바킹독 문제집 연습`|
+|로프|2217|`백준` `바킹독 문제집 연습`|[🐢](https://github.com/Taehyeon-Kim/PS/blob/master/Greedy/boj2217.py)|
 |보물|1026|`백준` `바킹독 문제집 연습`|[🐢](https://github.com/Taehyeon-Kim/PS/blob/master/Greedy/boj1026.py)|
