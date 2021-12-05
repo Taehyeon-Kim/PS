@@ -11,12 +11,22 @@
 '''
 
 
+# 틀린 풀이 (테스트 케이스만 정답)
+# def solution(citations):
+#     citations.sort(reverse=True)
+#     for h in citations:
+#         B = 0
+#         for citation in citations:
+#             if h <= citation:
+#                 B += 1
+#         if B >= h:
+#             return h
+
+# 정답 풀이 참고
+# 아이디어를 떠올리는 게 중요했던 문제
 def solution(citations):
     citations.sort(reverse=True)
-    for h in citations:
-        B = 0
-        for citation in citations:
-            if h <= citation:
-                B += 1
-        if B >= h:
-            return h
+    for idx, citation in enumerate(citations):
+        if idx >= citation:
+            return idx
+    return len(citations)
